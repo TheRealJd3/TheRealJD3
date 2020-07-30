@@ -9,4 +9,5 @@ Here are some ideas to get you started:
 * 👯 I’m looking to collaborate on Machine Learning projects
 * 📫 How to reach me: jasonshawndsouza@gmail.com
 -->
+
 <img src='https://github-readme-stats.vercel.app/api?username=TheRealJD3&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>
